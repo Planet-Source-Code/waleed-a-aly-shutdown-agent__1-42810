@@ -1,0 +1,12 @@
+*This is a complete application, I hope you find it helpful. It's not heavily commented but the code is easy to read and understand and will hopefully teach you alot:
+
+-Very useful Date & Time functions
+-Mimicing a Spinner Control using a Text Box & a Vertical Scroll Bar
+-Adding XP Style Support to VB Apps using a manifest file compiled within the executable as a resource
+-API calls to perform the following:
+   1. Add a System Tray Icon and make it blink
+   2. Run the eMail client, or open the web browser to a certain website
+   3. Identify the operating system
+   4. Shutdown, Restart, and Log Off: All Versions of Windows
+   5. Suspend (Stand by), Hibernate: Win98 or later, win2000 or later
+   6. Lock Computer: win2000 or later
